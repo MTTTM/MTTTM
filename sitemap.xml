@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mtttm.github.io/MTTTM/categories/index.html</loc>
+    
+    <lastmod>2016-06-24T11:59:29.733Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://mtttm.github.io/MTTTM/tags/index.html</loc>
+    
+    <lastmod>2016-06-24T11:59:26.616Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://mtttm.github.io/MTTTM/MTTTM/2016/06/24/hello-world/</loc>
     
     <lastmod>2016-06-24T11:11:39.889Z</lastmod>
